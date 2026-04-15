@@ -1,0 +1,4 @@
+ib-insync==0.9.86
+tzdata==2025.2
+pandas<3
+statsmodels==0.14.5
